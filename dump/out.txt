@@ -1,0 +1,6 @@
+Example output text file
+xyz Coordinates
+MODEL
+ATOM   1n   0.0  1.0  2.0
+new line
+2.0
